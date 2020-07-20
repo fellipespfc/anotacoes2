@@ -1,0 +1,31 @@
+Php é uma linguagem interpretação com um servidor embutido
+Laravel - Aplicações MVC
+Lumia - Aplicações Rest
+
+WampServer é um software que realiza a parte de configuração para instalaçao PHP, Mysql e Apach
+
+<?php ?>
+echo ou print (Jogar na tela)
+// Para comentarios
+/* Bloco de comentarios*/
+
+$nome = "Oi"
+echo "Meu nome é $nome";
+-> lembrar que só funciona por ser aspas compostas se for simples mostra a variavel e não seu valor
+
+is_int
+is_string
+is_bool
+is_object => para ver objeto/classe
+
+. (para concatenação)
+
+global => variavel global
+
+Resource - manipulação de arquivos e banco de dados
+
+define("NOME", "Fellipe") = > constante (são globais por padrão)
+
+print_r() => para mostrar os arrais
+
+

@@ -1,0 +1,3 @@
+Se você nao precisa manter o estado do objeto, use TRANSIENT
+Se precisa compatilhar dados dentro da mesma chamada, use SCOPED
+E se precisar manter os “mesmos” dados durante toda a aplicação, use SINGLETON.
